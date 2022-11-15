@@ -1,0 +1,4151 @@
+[
+    {
+        "category":"Fresh Food",
+        "image":"Fresh Food",
+        "description":"Shop fruits, vegetables, meats and other fresh products!",
+        "subcategory":[
+            {
+                "title":"Fresh Fruit",
+                "image":"Fresh Fruit",
+                "items":[
+                    {
+                        "item":"Bananas",
+                        "image":"Bananas",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":1.60,
+                                "aldi_price":1.60,
+                                "asda_price":1.90,
+                                "coop_price":1.79,
+                                "iceland_price":1.85,
+                                "morrisons_price":1.99,
+                                "sainsburys_price":1.86,
+                                "tesco_price":2.10,
+                                "waitrose_price":2.50
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apples & Pears",
+                        "image":"Apples & Pears",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Berries & Cherries",
+                        "image":"Berries & Cherries",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Oranges, Lemons & Citrus Fruit",
+                        "image":"Oranges, Lemons & Citrus Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Grapes",
+                        "image":"Grapes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peaches, Nectarines, Plums & Apricots",
+                        "image":"Peaches, Nectarines, Plums & Apricots",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Melons & Pineapples",
+                        "image":"Melons & Pineapples",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mango, Kiwi & Exotic Fruit",
+                        "image":"Mango, Kiwi & Exotic Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Rhubarb",
+                        "image":"Rhubarb",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fruit Pots, Platters & Packs",
+                        "image":"Fruit Pots, Platters & Packs",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Dried Fruit, Nuts & Seeds",
+                        "image":"Dried Fruit, Nuts & Seeds",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Fruit & Nuts",
+                        "image":"Organic Fruit & Nuts",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Vegetables",
+                "image":"Fresh Vegetables",
+                "items":[
+                    {
+                        "item":"Potatoes & Sweet Potatoes",
+                        "image":"Potatoes & Sweet Potatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Onions & Leeks",
+                        "image":"Onions & Leeks",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Carrots & Root Vegetables",
+                        "image":"Carrots & Root Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Broccoli & Cauliflower",
+                        "image":"Broccoli & Cauliflower",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spinach, Cabbages & Greens",
+                        "image":"Spinach, Cabbages & Greens",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Courgettes, Aubergines & Squash",
+                        "image":"Courgettes, Aubergines & Squash",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mushrooms",
+                        "image":"Mushrooms",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peas, Beans, Sweetcorn & Asparagus",
+                        "image":"Peas, Beans, Sweetcorn & Asparagus",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Exotic Vegetables",
+                        "image":"Exotic Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Stir Fry Vegetables, Sauce & Noodles",
+                        "image":"Stir Fry Vegetables, Sauce & Noodles",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Prepared Vegetables",
+                        "image":"Prepared Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                    
+                    
+                ]
+            },
+            {
+                "title":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "image":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "items":[
+                    {
+                        "item":"Lettuce & Salad bag",
+                        "image":"Lettuce & Salad bag",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Tomatoes",
+                        "image":"Tomatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Cucumber",
+                        "image":"Cucumber",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Celery",
+                        "image":"Celery",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peppers",
+                        "image":"Peppers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Avocado",
+                        "image":"Avocado",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spring Onions, Radish & Beetroot",
+                        "image":"Spring Onions, Radish & Beetroot",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Dressings & Croutons",
+                        "image":"Salad Dressings & Croutons",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Pots & Pasta Salad",
+                        "image":"Salad Pots & Pasta Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Salad",
+                        "image":"Organic Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Coleslaw & Potato Salad",
+                        "image":"Coleslaw & Potato Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Houmous & Dips",
+                        "image":"Houmous & Dips",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Sandwich Fillers",
+                        "image":"Sandwich Fillers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Juice & Smoothies",
+                "image":"Juice & Smoothies",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Milk, Eggs & Butter",
+                "image":"Milk, Eggs & Butter",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cheese",
+                "image":"Cheese",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Yoghurts",
+                "image":"Yoghurts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Dairy Free & Dairy Alternative",
+                "image":"Dairy Free & Dairy Alternative",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Vegetarian & Vegan",
+                "image":"Chilled Vegetarian & Vegan",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Meat & Poultry",
+                "image":"Fresh Meat & Poultry",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Fish & Seafood",
+                "image":"Chilled Fish & Seafood",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cooked Meats, Antipasti & Dips",
+                "image":"Cooked Meats, Antipasti & Dips",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Pies, Pasties, Quiches & Snacking",
+                "image":"Pies, Pasties, Quiches & Snacking",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Pizza, Pasta & Garlic Bread",
+                "image":"Fresh Pizza, Pasta & Garlic Bread",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Ready Meals",
+                "image":"Ready Meals",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Soup, Sandwhiches & Salad Pots",
+                "image":"Chilled Soup, Sandwhiches & Salad Pots",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Counters",
+                "image":"Counters",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"World Foods",
+                "image":"World Foods",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Desserts",
+                "image":"Chilled Desserts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category":"Bakery",
+        "image":"Bakery",
+        "description":"Shop fruits, vegetables, meats and other fresh products!",
+        "subcategory":[
+            {
+                "title":"Fresh Fruit",
+                "image":"Fresh Fruit",
+                "items":[
+                    {
+                        "item":"Bananas",
+                        "image":"Bananas",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apples & Pears",
+                        "image":"Apples & Pears",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Berries & Cherries",
+                        "image":"Berries & Cherries",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Oranges, Lemons & Citrus Fruit",
+                        "image":"Oranges, Lemons & Citrus Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Grapes",
+                        "image":"Grapes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peaches, Nectarines, Plums & Apricots",
+                        "image":"Peaches, Nectarines, Plums & Apricots",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Melons & Pineapples",
+                        "image":"Melons & Pineapples",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mango, Kiwi & Exotic Fruit",
+                        "image":"Mango, Kiwi & Exotic Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Rhubarb",
+                        "image":"Rhubarb",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fruit Pots, Platters & Packs",
+                        "image":"Fruit Pots, Platters & Packs",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Dried Fruit, Nuts & Seeds",
+                        "image":"Dried Fruit, Nuts & Seeds",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Fruit & Nuts",
+                        "image":"Organic Fruit & Nuts",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Vegetables",
+                "image":"Fresh Vegetables",
+                "items":[
+                    {
+                        "item":"Potatoes & Sweet Potatoes",
+                        "image":"Potatoes & Sweet Potatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Onions & Leeks",
+                        "image":"Onions & Leeks",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Carrots & Root Vegetables",
+                        "image":"Carrots & Root Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Broccoli & Cauliflower",
+                        "image":"Broccoli & Cauliflower",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spinach, Cabbages & Greens",
+                        "image":"Spinach, Cabbages & Greens",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Courgettes, Aubergines & Squash",
+                        "image":"Courgettes, Aubergines & Squash",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mushrooms",
+                        "image":"Mushrooms",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peas, Beans, Sweetcorn & Asparagus",
+                        "image":"Peas, Beans, Sweetcorn & Asparagus",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Exotic Vegetables",
+                        "image":"Exotic Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Stir Fry Vegetables, Sauce & Noodles",
+                        "image":"Stir Fry Vegetables, Sauce & Noodles",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Prepared Vegetables",
+                        "image":"Prepared Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                    
+                    
+                ]
+            },
+            {
+                "title":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "image":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "items":[
+                    {
+                        "item":"Lettuce & Salad bag",
+                        "image":"Lettuce & Salad bag",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Tomatoes",
+                        "image":"Tomatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Cucumber",
+                        "image":"Cucumber",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Celery",
+                        "image":"Celery",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peppers",
+                        "image":"Peppers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Avocado",
+                        "image":"Avocado",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spring Onions, Radish & Beetroot",
+                        "image":"Spring Onions, Radish & Beetroot",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Dressings & Croutons",
+                        "image":"Salad Dressings & Croutons",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Pots & Pasta Salad",
+                        "image":"Salad Pots & Pasta Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Salad",
+                        "image":"Organic Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Coleslaw & Potato Salad",
+                        "image":"Coleslaw & Potato Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Houmous & Dips",
+                        "image":"Houmous & Dips",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Sandwich Fillers",
+                        "image":"Sandwich Fillers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Juice & Smoothies",
+                "image":"Juice & Smoothies",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Milk, Eggs & Butter",
+                "image":"Milk, Eggs & Butter",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cheese",
+                "image":"Cheese",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Yoghurts",
+                "image":"Yoghurts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Dairy Free & Dairy Alternative",
+                "image":"Dairy Free & Dairy Alternative",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Vegetarian & Vegan",
+                "image":"Chilled Vegetarian & Vegan",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Meat & Poultry",
+                "image":"Fresh Meat & Poultry",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Fish & Seafood",
+                "image":"Chilled Fish & Seafood",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cooked Meats, Antipasti & Dips",
+                "image":"Cooked Meats, Antipasti & Dips",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Pies, Pasties, Quiches & Snacking",
+                "image":"Pies, Pasties, Quiches & Snacking",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Pizza, Pasta & Garlic Bread",
+                "image":"Fresh Pizza, Pasta & Garlic Bread",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Ready Meals",
+                "image":"Ready Meals",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Soup, Sandwhiches & Salad Pots",
+                "image":"Chilled Soup, Sandwhiches & Salad Pots",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Counters",
+                "image":"Counters",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"World Foods",
+                "image":"World Foods",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Desserts",
+                "image":"Chilled Desserts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category":"Food Cupboard",
+        "image":"Food Cupboard",
+        "description":"Shop fruits, vegetables, meats and other fresh products!",
+        "subcategory":[
+            {
+                "title":"Fresh Fruit",
+                "image":"Fresh Fruit",
+                "items":[
+                    {
+                        "item":"Bananas",
+                        "image":"Bananas",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apples & Pears",
+                        "image":"Apples & Pears",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Berries & Cherries",
+                        "image":"Berries & Cherries",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Oranges, Lemons & Citrus Fruit",
+                        "image":"Oranges, Lemons & Citrus Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Grapes",
+                        "image":"Grapes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peaches, Nectarines, Plums & Apricots",
+                        "image":"Peaches, Nectarines, Plums & Apricots",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Melons & Pineapples",
+                        "image":"Melons & Pineapples",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mango, Kiwi & Exotic Fruit",
+                        "image":"Mango, Kiwi & Exotic Fruit",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Rhubarb",
+                        "image":"Rhubarb",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fruit Pots, Platters & Packs",
+                        "image":"Fruit Pots, Platters & Packs",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Dried Fruit, Nuts & Seeds",
+                        "image":"Dried Fruit, Nuts & Seeds",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Fruit & Nuts",
+                        "image":"Organic Fruit & Nuts",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Vegetables",
+                "image":"Fresh Vegetables",
+                "items":[
+                    {
+                        "item":"Potatoes & Sweet Potatoes",
+                        "image":"Potatoes & Sweet Potatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Onions & Leeks",
+                        "image":"Onions & Leeks",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Carrots & Root Vegetables",
+                        "image":"Carrots & Root Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Broccoli & Cauliflower",
+                        "image":"Broccoli & Cauliflower",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spinach, Cabbages & Greens",
+                        "image":"Spinach, Cabbages & Greens",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Courgettes, Aubergines & Squash",
+                        "image":"Courgettes, Aubergines & Squash",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Mushrooms",
+                        "image":"Mushrooms",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peas, Beans, Sweetcorn & Asparagus",
+                        "image":"Peas, Beans, Sweetcorn & Asparagus",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Exotic Vegetables",
+                        "image":"Exotic Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Stir Fry Vegetables, Sauce & Noodles",
+                        "image":"Stir Fry Vegetables, Sauce & Noodles",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Prepared Vegetables",
+                        "image":"Prepared Vegetables",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                    
+                    
+                ]
+            },
+            {
+                "title":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "image":"Fresh Salad, Coleslaw & Sandwich Fillers",
+                "items":[
+                    {
+                        "item":"Lettuce & Salad bag",
+                        "image":"Lettuce & Salad bag",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Tomatoes",
+                        "image":"Tomatoes",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Cucumber",
+                        "image":"Cucumber",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Celery",
+                        "image":"Celery",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Peppers",
+                        "image":"Peppers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Avocado",
+                        "image":"Avocado",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Spring Onions, Radish & Beetroot",
+                        "image":"Spring Onions, Radish & Beetroot",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Dressings & Croutons",
+                        "image":"Salad Dressings & Croutons",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Salad Pots & Pasta Salad",
+                        "image":"Salad Pots & Pasta Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "image":"Fresh Chillies, Herbs, Garlic & Ginger",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Organic Salad",
+                        "image":"Organic Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Coleslaw & Potato Salad",
+                        "image":"Coleslaw & Potato Salad",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Houmous & Dips",
+                        "image":"Houmous & Dips",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Sandwich Fillers",
+                        "image":"Sandwich Fillers",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Juice & Smoothies",
+                "image":"Juice & Smoothies",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Milk, Eggs & Butter",
+                "image":"Milk, Eggs & Butter",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cheese",
+                "image":"Cheese",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Yoghurts",
+                "image":"Yoghurts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Dairy Free & Dairy Alternative",
+                "image":"Dairy Free & Dairy Alternative",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Vegetarian & Vegan",
+                "image":"Chilled Vegetarian & Vegan",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Meat & Poultry",
+                "image":"Fresh Meat & Poultry",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Fish & Seafood",
+                "image":"Chilled Fish & Seafood",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Cooked Meats, Antipasti & Dips",
+                "image":"Cooked Meats, Antipasti & Dips",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Pies, Pasties, Quiches & Snacking",
+                "image":"Pies, Pasties, Quiches & Snacking",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Fresh Pizza, Pasta & Garlic Bread",
+                "image":"Fresh Pizza, Pasta & Garlic Bread",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Ready Meals",
+                "image":"Ready Meals",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Soup, Sandwhiches & Salad Pots",
+                "image":"Chilled Soup, Sandwhiches & Salad Pots",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Counters",
+                "image":"Counters",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"World Foods",
+                "image":"World Foods",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title":"Chilled Desserts",
+                "image":"Chilled Desserts",
+                "items":[
+                    {
+                        "item":"Banana",
+                        "image":"Banana",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    },
+                    {
+                        "item":"Apple",
+                        "image":"Apple",
+                        "variations":[
+                            {
+                                "variant":"Banana Loose",
+                                "lowest_price":2.60,
+                                "aldi_price":2.60,
+                                "asda_price":2.60,
+                                "coop_price":2.60,
+                                "iceland_price":2.60,
+                                "morrisons_price":2.60,
+                                "sainsburys_price":2.60,
+                                "tesco_price":2.60,
+                                "waitrose_price":2.60
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
